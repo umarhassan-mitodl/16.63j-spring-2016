@@ -1,0 +1,26 @@
+leftnav:
+- identifier: 090fe346-3590-8679-3f49-1c5b439c9c26
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 21f926e6-17bd-08db-53b2-ed224c467783
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: df0ae1ef-fae9-3cb9-85ac-dcb8e8d1bc6c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: ab43c7c8-150a-eda1-6ea0-3b92e01bd6b2
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: c85f215f-459a-419a-dcfd-ebd4595c1543
+  name: Assignments and Class Project
+  pageRef: /pages/assignments-and-class-project/
+  weight: 50
+- identifier: 525f2496-20bf-a7c8-15bf-2223929af831
+  name: "Class project example \u2013\_Nancy's Shuttle"
+  pageRef: /pages/assignments-and-class-project/class-project-example-2013nancys-shuttle
+  parent: c85f215f-459a-419a-dcfd-ebd4595c1543
+  weight: 60
