@@ -26,6 +26,7 @@
     "website": "16-63j-system-safety-spring-2016"
   },
   "course_title": "System Safety",
+  "hide_download": true,
   "course_description": "This course introduces the concepts of system safety and how to analyze and design safer systems. Topics include the causes of accidents in general, and recent major accidents in particular; hazard analysis, safety-driven design techniques; design of human-automation interaction; integrating safety into the system engineering process; and managing and operating safety-critical systems.\n",
   "department_numbers": [
     "16",
@@ -37,6 +38,7 @@
     "content": "2f72c8c5-224e-95a2-4fb5-fefedc546e8a",
     "website": "16-63j-system-safety-spring-2016"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Open Textbooks",

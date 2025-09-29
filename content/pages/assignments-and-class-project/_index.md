@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides instructions for the course assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Class Project
@@ -10,7 +12,7 @@ uid: c85f215f-459a-419a-dcfd-ebd4595c1543
 Assignment 1: Citichem video
 ----------------------------
 
-1.  Watch the Citichem video {{% resource_link "8b3fc2cf-e4db-4454-85b1-b2d0aab427c2" "_Acceptable Risks_" %}}. Directed by Rick Wallace. Color, 92 min. 1986 and identify the factors contributing to the accident that you see in the video. Write down the answers to the following questions:
+1.  Watch the Citichem video [_Acceptable Risks_](http://www.imdb.com/title/tt0090586/). Directed by Rick Wallace. Color, 92 min. 1986 and identify the factors contributing to the accident that you see in the video. Write down the answers to the following questions:
     *   Is there a "root cause"?
     *   Are some factors more important than others?
 2.  In addition to the written, submit brief power point slides for a short presentation to the class (only about 5 minutes).
@@ -64,7 +66,7 @@ Class Project Instructions
 
 Do a hazard analysis of a real system; use this textbook as the reference book:
 
-\[ESW\] = {{% resource_link "00cc9174-a742-44a9-95bb-72edd2ae1021" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with {{% resource_link "53301ff6-4349-481d-8e99-cab94c6a7af8" "Google Books" %}}\]
+\[ESW\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
 
 P1: Write a description of the system, what are the goals, have there been accidents in the past with it (if it is not new)? What are the technical system safety requirements? Read \[ESW\] Section 7.3 and what are the overall management or organizational requirements (also see \[ESW\] Section 7.4 )?"
 
