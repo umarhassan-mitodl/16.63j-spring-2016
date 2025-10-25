@@ -5,8 +5,6 @@ description: 'This resource contains information regarding system safety: Introd
 file: /courses/16-63j-system-safety-spring-2016/8a4b9ebb388cc40d421941b68c523ff8_MIT16_63JS16_LecNotes1.pdf
 file_size: 655968
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
