@@ -34,7 +34,7 @@ When engineers were creating systems that were relatively simple and the impact 
 There are two textbooks for the class:
 
 *   Leveson, Nancy G. _Safeware: System Safety and Computers._ Addison-Wesley Professional, 1995. ISBN: 9780201119725.
-*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) ———. _Engineering a Safer World: Systems Thinking Applied to Safety (Engineering Systems)._ MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a [free download](http://mitpress.mit.edu/9780262016629) from the MIT Press website. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
+*   {{% resource_link "78c93cef-3c78-419a-afec-1ae57b5a8ac5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. _Engineering a Safer World: Systems Thinking Applied to Safety (Engineering Systems)._ MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a {{% resource_link "c175a55b-d30e-418d-97ce-f5ee3fd5aa29" "free download" %}} from the MIT Press website. \[Preview with {{% resource_link "d54a2ba5-a871-4f5e-9d57-60559d65a40b" "Google Books" %}}\]
 
 In addition, a few other readings will be assigned through out the semester. Our new STPA Primer (draft) will also be provided for reference, but you are not required to read it.
 

@@ -10,7 +10,7 @@ uid: c85f215f-459a-419a-dcfd-ebd4595c1543
 Assignment 1: Citichem video
 ----------------------------
 
-1.  Watch the Citichem video [_Acceptable Risks_](http://www.imdb.com/title/tt0090586/). Directed by Rick Wallace. Color, 92 min. 1986 and identify the factors contributing to the accident that you see in the video. Write down the answers to the following questions:
+1.  Watch the Citichem video {{% resource_link "539fbf93-c118-4157-bf96-7dbeabb680d5" "_Acceptable Risks_" %}}. Directed by Rick Wallace. Color, 92 min. 1986 and identify the factors contributing to the accident that you see in the video. Write down the answers to the following questions:
     *   Is there a "root cause"?
     *   Are some factors more important than others?
 2.  In addition to the written, submit brief power point slides for a short presentation to the class (only about 5 minutes).
@@ -64,7 +64,7 @@ Class Project Instructions
 
 Do a hazard analysis of a real system; use this textbook as the reference book:
 
-\[ESW\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
+\[ESW\] = {{% resource_link "78c93cef-3c78-419a-afec-1ae57b5a8ac5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. \[Preview with {{% resource_link "d54a2ba5-a871-4f5e-9d57-60559d65a40b" "Google Books" %}}\]
 
 P1: Write a description of the system, what are the goals, have there been accidents in the past with it (if it is not new)? What are the technical system safety requirements? Read \[ESW\] Section 7.3 and what are the overall management or organizational requirements (also see \[ESW\] Section 7.4 )?"
 
